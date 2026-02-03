@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a senior full-stack developer with over 3+ years of experience. I am a dedicated, hard-working, and talented individual with broad programming and collaboration skills. I'm always following the best practices and the highest standards to produce readable and well-structured code for a product.
+I am a senior full-stack mobile and web developer with over 5+ years of experience. I am a dedicated, hard-working, and talented individual with broad programming and collaboration skills. I'm always following the best practices and the highest standards to produce readable and well-structured code for a product.
 
 <br/>  
 
